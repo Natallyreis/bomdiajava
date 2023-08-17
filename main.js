@@ -1,4 +1,4 @@
-let hora = new Date().getHours();
+let hora = new Date().getHours() ;
 let saudacao = "";
 
 if(hora >= 4 && hora < 12){
